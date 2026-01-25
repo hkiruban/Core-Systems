@@ -11,4 +11,4 @@
 
 ### Objectives
 * Automate manual Excel workflows to reduce human error.
-* Implement data cleaning and normalization for financial datasets.
+* Implement data cleaning and normalization for datasets.
