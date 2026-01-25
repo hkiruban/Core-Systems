@@ -8,5 +8,5 @@
 | **WHERE** | The "Filter" | Only picking items that are on sale (specific conditions). |
 
 ### Objectives
-* Master set-based logic for quantitative analysis.
-* Optimize filtering to handle high-frequency market data.
+* Master set-based logic
+* Optimize filtering to handle data.
