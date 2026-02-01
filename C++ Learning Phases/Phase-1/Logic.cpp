@@ -4,7 +4,7 @@ Before the main logic starts, you must include the libraries that give the progr
 #include <iostream>: For input and output (cin and cout). 
 
 #include <cmath>: Essential for the sqrt() function. You aren't calculating square roots by hand; use the library.
-
+^ include statements never use semicolons at the end
 
 
 Standard C++ functions live in the std namespace.
