@@ -17,7 +17,7 @@ The system utilizes a relational schema to join internal performance with extern
 
 ### Data Entities
 * **Course Performance:** Normalized table for weights and achieved scores.
-* **Historical Metrics:** Reference table for historical means and "Rogue" difficulty volatility.
+* **Historical Metrics:** Reference table for historical means and difficulty volatility.
 
 ## 4. Pipeline Phases
 1.  **Extraction:** Python scripts parse `Logistics.xlsx` and scrape course metadata.
